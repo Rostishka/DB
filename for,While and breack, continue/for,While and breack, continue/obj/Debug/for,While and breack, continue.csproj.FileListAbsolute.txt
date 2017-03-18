@@ -1,0 +1,5 @@
+c:\users\1\documents\visual studio 2015\Projects\for,While and breack, continue\for,While and breack, continue\bin\Debug\for,While and breack, continue.exe.config
+c:\users\1\documents\visual studio 2015\Projects\for,While and breack, continue\for,While and breack, continue\bin\Debug\for,While and breack, continue.exe
+c:\users\1\documents\visual studio 2015\Projects\for,While and breack, continue\for,While and breack, continue\bin\Debug\for,While and breack, continue.pdb
+c:\users\1\documents\visual studio 2015\Projects\for,While and breack, continue\for,While and breack, continue\obj\Debug\for,While and breack, continue.exe
+c:\users\1\documents\visual studio 2015\Projects\for,While and breack, continue\for,While and breack, continue\obj\Debug\for,While and breack, continue.pdb

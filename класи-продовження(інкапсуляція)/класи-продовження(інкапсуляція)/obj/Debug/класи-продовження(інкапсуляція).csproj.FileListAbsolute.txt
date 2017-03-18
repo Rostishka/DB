@@ -1,0 +1,6 @@
+c:\users\1\documents\visual studio 2015\Projects\класи-продовження(інкапсуляція)\класи-продовження(інкапсуляція)\bin\Debug\класи-продовження(інкапсуляція).exe.config
+c:\users\1\documents\visual studio 2015\Projects\класи-продовження(інкапсуляція)\класи-продовження(інкапсуляція)\bin\Debug\класи-продовження(інкапсуляція).exe
+c:\users\1\documents\visual studio 2015\Projects\класи-продовження(інкапсуляція)\класи-продовження(інкапсуляція)\bin\Debug\класи-продовження(інкапсуляція).pdb
+c:\users\1\documents\visual studio 2015\Projects\класи-продовження(інкапсуляція)\класи-продовження(інкапсуляція)\obj\Debug\класи-продовження(інкапсуляція).csprojResolveAssemblyReference.cache
+c:\users\1\documents\visual studio 2015\Projects\класи-продовження(інкапсуляція)\класи-продовження(інкапсуляція)\obj\Debug\класи-продовження(інкапсуляція).exe
+c:\users\1\documents\visual studio 2015\Projects\класи-продовження(інкапсуляція)\класи-продовження(інкапсуляція)\obj\Debug\класи-продовження(інкапсуляція).pdb

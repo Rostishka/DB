@@ -1,0 +1,6 @@
+c:\users\1\documents\visual studio 2015\Projects\Конструкторы, static\Конструкторы, static\bin\Debug\Конструкторы, static.exe.config
+C:\Users\1\documents\visual studio 2015\Projects\Конструкторы, static\Конструкторы, static\bin\Debug\Конструкторы, static.exe
+C:\Users\1\documents\visual studio 2015\Projects\Конструкторы, static\Конструкторы, static\bin\Debug\Конструкторы, static.pdb
+C:\Users\1\documents\visual studio 2015\Projects\Конструкторы, static\Конструкторы, static\obj\Debug\Конструкторы, static.csprojResolveAssemblyReference.cache
+C:\Users\1\documents\visual studio 2015\Projects\Конструкторы, static\Конструкторы, static\obj\Debug\Конструкторы, static.exe
+C:\Users\1\documents\visual studio 2015\Projects\Конструкторы, static\Конструкторы, static\obj\Debug\Конструкторы, static.pdb

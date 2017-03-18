@@ -1,0 +1,6 @@
+c:\users\1\documents\visual studio 2015\Projects\try-catch\try-catch\bin\Debug\try-catch.exe.config
+c:\users\1\documents\visual studio 2015\Projects\try-catch\try-catch\bin\Debug\try-catch.exe
+c:\users\1\documents\visual studio 2015\Projects\try-catch\try-catch\bin\Debug\try-catch.pdb
+c:\users\1\documents\visual studio 2015\Projects\try-catch\try-catch\obj\Debug\try-catch.csprojResolveAssemblyReference.cache
+c:\users\1\documents\visual studio 2015\Projects\try-catch\try-catch\obj\Debug\try-catch.exe
+c:\users\1\documents\visual studio 2015\Projects\try-catch\try-catch\obj\Debug\try-catch.pdb

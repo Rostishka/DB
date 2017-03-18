@@ -1,0 +1,11 @@
+c:\users\1\documents\visual studio 2015\Projects\constuctor\constuctor\bin\Debug\constuctor.exe.config
+c:\users\1\documents\visual studio 2015\Projects\constuctor\constuctor\bin\Debug\constuctor.exe
+c:\users\1\documents\visual studio 2015\Projects\constuctor\constuctor\bin\Debug\constuctor.pdb
+c:\users\1\documents\visual studio 2015\Projects\constuctor\constuctor\obj\Debug\constuctor.exe
+c:\users\1\documents\visual studio 2015\Projects\constuctor\constuctor\obj\Debug\constuctor.pdb
+C:\Users\1\Documents\Visual Studio 2015\Projects\Learning C#\constuctor\constuctor\bin\Debug\constuctor.exe.config
+C:\Users\1\Documents\Visual Studio 2015\Projects\Learning C#\constuctor\constuctor\obj\Debug\constuctor.exe
+C:\Users\1\Documents\Visual Studio 2015\Projects\Learning C#\constuctor\constuctor\obj\Debug\constuctor.pdb
+C:\Users\1\Documents\Visual Studio 2015\Projects\Learning C#\constuctor\constuctor\bin\Debug\constuctor.exe
+C:\Users\1\Documents\Visual Studio 2015\Projects\Learning C#\constuctor\constuctor\bin\Debug\constuctor.pdb
+C:\Users\1\Documents\Visual Studio 2015\Projects\Learning C#\constuctor\constuctor\obj\Debug\constuctor.csprojResolveAssemblyReference.cache

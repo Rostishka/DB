@@ -1,0 +1,7 @@
+c:\users\1\documents\visual studio 2015\Projects\Random+switch\Random+switch\bin\Debug\Random+switch.exe.config
+c:\users\1\documents\visual studio 2015\Projects\Random+switch\Random+switch\bin\Debug\Random+switch.exe
+c:\users\1\documents\visual studio 2015\Projects\Random+switch\Random+switch\bin\Debug\Random+switch.pdb
+c:\users\1\documents\visual studio 2015\Projects\Random+switch\Random+switch\obj\Debug\Random+switch.exe
+c:\users\1\documents\visual studio 2015\Projects\Random+switch\Random+switch\obj\Debug\Random+switch.pdb
+c:\users\1\documents\visual studio 2015\Projects\Random+switch\Random+switch\bin\Debug\Random+switch.exe.CodeAnalysisLog.xml
+c:\users\1\documents\visual studio 2015\Projects\Random+switch\Random+switch\bin\Debug\Random+switch.exe.lastcodeanalysissucceeded

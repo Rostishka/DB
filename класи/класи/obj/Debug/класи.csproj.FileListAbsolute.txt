@@ -1,0 +1,9 @@
+c:\users\1\documents\visual studio 2015\Projects\класи\класи\bin\Debug\класи.exe.config
+c:\users\1\documents\visual studio 2015\Projects\класи\класи\obj\Debug\класи.csprojResolveAssemblyReference.cache
+c:\users\1\documents\visual studio 2015\Projects\класи\класи\bin\Debug\класи.exe
+c:\users\1\documents\visual studio 2015\Projects\класи\класи\bin\Debug\класи.pdb
+c:\users\1\documents\visual studio 2015\Projects\класи\класи\obj\Debug\класи.exe
+c:\users\1\documents\visual studio 2015\Projects\класи\класи\obj\Debug\класи.pdb
+C:\Users\1\Documents\Visual Studio 2015\Projects\Learning C#\класи\класи\bin\Debug\класи.exe.config
+C:\Users\1\Documents\Visual Studio 2015\Projects\Learning C#\класи\класи\obj\Debug\класи.exe
+C:\Users\1\Documents\Visual Studio 2015\Projects\Learning C#\класи\класи\obj\Debug\класи.pdb

@@ -1,0 +1,5 @@
+c:\users\1\documents\visual studio 2015\Projects\brake_continious\brake_continious\bin\Debug\brake_continious.exe.config
+c:\users\1\documents\visual studio 2015\Projects\brake_continious\brake_continious\bin\Debug\brake_continious.exe
+c:\users\1\documents\visual studio 2015\Projects\brake_continious\brake_continious\bin\Debug\brake_continious.pdb
+c:\users\1\documents\visual studio 2015\Projects\brake_continious\brake_continious\obj\Debug\brake_continious.exe
+c:\users\1\documents\visual studio 2015\Projects\brake_continious\brake_continious\obj\Debug\brake_continious.pdb

@@ -1,0 +1,6 @@
+c:\users\1\documents\visual studio 2015\Projects\ввід та запис з клавіатури\ввід та запис з клавіатури\bin\Debug\ввід та запис з клавіатури.exe.config
+c:\users\1\documents\visual studio 2015\Projects\ввід та запис з клавіатури\ввід та запис з клавіатури\obj\Debug\ввід та запис з клавіатури.csprojResolveAssemblyReference.cache
+c:\users\1\documents\visual studio 2015\Projects\ввід та запис з клавіатури\ввід та запис з клавіатури\bin\Debug\ввід та запис з клавіатури.exe
+c:\users\1\documents\visual studio 2015\Projects\ввід та запис з клавіатури\ввід та запис з клавіатури\bin\Debug\ввід та запис з клавіатури.pdb
+c:\users\1\documents\visual studio 2015\Projects\ввід та запис з клавіатури\ввід та запис з клавіатури\obj\Debug\ввід та запис з клавіатури.exe
+c:\users\1\documents\visual studio 2015\Projects\ввід та запис з клавіатури\ввід та запис з клавіатури\obj\Debug\ввід та запис з клавіатури.pdb
