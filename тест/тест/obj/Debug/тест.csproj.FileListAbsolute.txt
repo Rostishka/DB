@@ -1,0 +1,6 @@
+C:\Users\1\Documents\Visual Studio 2015\Projects\Learning C#\тест\тест\bin\Debug\тест.exe.config
+C:\Users\1\Documents\Visual Studio 2015\Projects\Learning C#\тест\тест\bin\Debug\тест.exe
+C:\Users\1\Documents\Visual Studio 2015\Projects\Learning C#\тест\тест\bin\Debug\тест.pdb
+C:\Users\1\Documents\Visual Studio 2015\Projects\Learning C#\тест\тест\obj\Debug\тест.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\Visual Studio 2015\Projects\Learning C#\тест\тест\obj\Debug\тест.exe
+C:\Users\1\Documents\Visual Studio 2015\Projects\Learning C#\тест\тест\obj\Debug\тест.pdb

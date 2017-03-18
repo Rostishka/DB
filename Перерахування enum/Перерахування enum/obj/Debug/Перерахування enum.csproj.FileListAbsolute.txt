@@ -1,0 +1,6 @@
+c:\users\1\documents\visual studio 2015\Projects\Перерахування enum\Перерахування enum\bin\Debug\Перерахування enum.exe.config
+c:\users\1\documents\visual studio 2015\Projects\Перерахування enum\Перерахування enum\bin\Debug\Перерахування enum.exe
+c:\users\1\documents\visual studio 2015\Projects\Перерахування enum\Перерахування enum\bin\Debug\Перерахування enum.pdb
+c:\users\1\documents\visual studio 2015\Projects\Перерахування enum\Перерахування enum\obj\Debug\Перерахування enum.csprojResolveAssemblyReference.cache
+c:\users\1\documents\visual studio 2015\Projects\Перерахування enum\Перерахування enum\obj\Debug\Перерахування enum.exe
+c:\users\1\documents\visual studio 2015\Projects\Перерахування enum\Перерахування enum\obj\Debug\Перерахування enum.pdb

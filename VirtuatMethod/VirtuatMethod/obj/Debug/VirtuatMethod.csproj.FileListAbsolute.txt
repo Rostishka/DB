@@ -1,0 +1,6 @@
+c:\users\1\documents\visual studio 2015\Projects\VirtuatMethod\VirtuatMethod\bin\Debug\VirtuatMethod.exe.config
+c:\users\1\documents\visual studio 2015\Projects\VirtuatMethod\VirtuatMethod\bin\Debug\VirtuatMethod.exe
+c:\users\1\documents\visual studio 2015\Projects\VirtuatMethod\VirtuatMethod\bin\Debug\VirtuatMethod.pdb
+c:\users\1\documents\visual studio 2015\Projects\VirtuatMethod\VirtuatMethod\obj\Debug\VirtuatMethod.csprojResolveAssemblyReference.cache
+c:\users\1\documents\visual studio 2015\Projects\VirtuatMethod\VirtuatMethod\obj\Debug\VirtuatMethod.exe
+c:\users\1\documents\visual studio 2015\Projects\VirtuatMethod\VirtuatMethod\obj\Debug\VirtuatMethod.pdb

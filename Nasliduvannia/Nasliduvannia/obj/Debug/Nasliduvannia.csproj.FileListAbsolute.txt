@@ -1,0 +1,9 @@
+c:\users\1\documents\visual studio 2015\Projects\Nasliduvannia\Nasliduvannia\bin\Debug\Nasliduvannia.exe.config
+c:\users\1\documents\visual studio 2015\Projects\Nasliduvannia\Nasliduvannia\bin\Debug\Nasliduvannia.exe
+c:\users\1\documents\visual studio 2015\Projects\Nasliduvannia\Nasliduvannia\bin\Debug\Nasliduvannia.pdb
+c:\users\1\documents\visual studio 2015\Projects\Nasliduvannia\Nasliduvannia\obj\Debug\Nasliduvannia.csprojResolveAssemblyReference.cache
+c:\users\1\documents\visual studio 2015\Projects\Nasliduvannia\Nasliduvannia\obj\Debug\Nasliduvannia.exe
+c:\users\1\documents\visual studio 2015\Projects\Nasliduvannia\Nasliduvannia\obj\Debug\Nasliduvannia.pdb
+C:\Users\1\Documents\Visual Studio 2015\Projects\Learning C#\Nasliduvannia\Nasliduvannia\bin\Debug\Nasliduvannia.exe.config
+C:\Users\1\Documents\Visual Studio 2015\Projects\Learning C#\Nasliduvannia\Nasliduvannia\obj\Debug\Nasliduvannia.exe
+C:\Users\1\Documents\Visual Studio 2015\Projects\Learning C#\Nasliduvannia\Nasliduvannia\obj\Debug\Nasliduvannia.pdb

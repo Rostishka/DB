@@ -1,0 +1,5 @@
+c:\users\1\documents\visual studio 2015\Projects\Naslid\Naslid\bin\Debug\Naslid.exe.config
+c:\users\1\documents\visual studio 2015\Projects\Naslid\Naslid\bin\Debug\Naslid.exe
+c:\users\1\documents\visual studio 2015\Projects\Naslid\Naslid\bin\Debug\Naslid.pdb
+c:\users\1\documents\visual studio 2015\Projects\Naslid\Naslid\obj\Debug\Naslid.exe
+c:\users\1\documents\visual studio 2015\Projects\Naslid\Naslid\obj\Debug\Naslid.pdb

@@ -1,0 +1,9 @@
+c:\users\1\documents\visual studio 2015\Projects\abstract\abstract\bin\Debug\@abstract.exe.config
+c:\users\1\documents\visual studio 2015\Projects\abstract\abstract\bin\Debug\@abstract.exe
+c:\users\1\documents\visual studio 2015\Projects\abstract\abstract\bin\Debug\@abstract.pdb
+c:\users\1\documents\visual studio 2015\Projects\abstract\abstract\obj\Debug\abstract.csprojResolveAssemblyReference.cache
+c:\users\1\documents\visual studio 2015\Projects\abstract\abstract\obj\Debug\@abstract.exe
+c:\users\1\documents\visual studio 2015\Projects\abstract\abstract\obj\Debug\@abstract.pdb
+C:\Users\1\Documents\Visual Studio 2015\Projects\Learning C#\abstract\abstract\bin\Debug\@abstract.exe.config
+C:\Users\1\Documents\Visual Studio 2015\Projects\Learning C#\abstract\abstract\obj\Debug\@abstract.exe
+C:\Users\1\Documents\Visual Studio 2015\Projects\Learning C#\abstract\abstract\obj\Debug\@abstract.pdb

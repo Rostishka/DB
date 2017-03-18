@@ -1,0 +1,10 @@
+c:\users\1\documents\visual studio 2015\Projects\IS and AS\IS and AS\bin\Debug\IS and AS.exe.config
+c:\users\1\documents\visual studio 2015\Projects\IS and AS\IS and AS\bin\Debug\IS and AS.exe
+c:\users\1\documents\visual studio 2015\Projects\IS and AS\IS and AS\bin\Debug\IS and AS.pdb
+c:\users\1\documents\visual studio 2015\Projects\IS and AS\IS and AS\obj\Debug\IS and AS.exe
+c:\users\1\documents\visual studio 2015\Projects\IS and AS\IS and AS\obj\Debug\IS and AS.pdb
+C:\Users\1\Documents\Visual Studio 2015\Projects\Learning C#\IS and AS\IS and AS\bin\Debug\IS and AS.exe.config
+C:\Users\1\Documents\Visual Studio 2015\Projects\Learning C#\IS and AS\IS and AS\obj\Debug\IS and AS.exe
+C:\Users\1\Documents\Visual Studio 2015\Projects\Learning C#\IS and AS\IS and AS\obj\Debug\IS and AS.pdb
+C:\Users\1\Documents\Visual Studio 2015\Projects\Learning C#\IS and AS\IS and AS\bin\Debug\IS and AS.exe
+C:\Users\1\Documents\Visual Studio 2015\Projects\Learning C#\IS and AS\IS and AS\bin\Debug\IS and AS.pdb

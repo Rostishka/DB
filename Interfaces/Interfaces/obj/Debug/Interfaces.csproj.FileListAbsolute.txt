@@ -1,0 +1,8 @@
+c:\users\1\documents\visual studio 2015\Projects\Interfaces\Interfaces\bin\Debug\Interfaces.exe.config
+c:\users\1\documents\visual studio 2015\Projects\Interfaces\Interfaces\bin\Debug\Interfaces.exe
+c:\users\1\documents\visual studio 2015\Projects\Interfaces\Interfaces\bin\Debug\Interfaces.pdb
+c:\users\1\documents\visual studio 2015\Projects\Interfaces\Interfaces\obj\Debug\Interfaces.exe
+c:\users\1\documents\visual studio 2015\Projects\Interfaces\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\1\Documents\Visual Studio 2015\Projects\Learning C#\Interfaces\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\1\Documents\Visual Studio 2015\Projects\Learning C#\Interfaces\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\1\Documents\Visual Studio 2015\Projects\Learning C#\Interfaces\Interfaces\obj\Debug\Interfaces.pdb

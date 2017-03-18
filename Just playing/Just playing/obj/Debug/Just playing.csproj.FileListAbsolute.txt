@@ -1,0 +1,6 @@
+C:\Users\1\Documents\Visual Studio 2015\Projects\Learning C#\Just playing\Just playing\bin\Debug\Just playing.exe.config
+C:\Users\1\Documents\Visual Studio 2015\Projects\Learning C#\Just playing\Just playing\bin\Debug\Just playing.exe
+C:\Users\1\Documents\Visual Studio 2015\Projects\Learning C#\Just playing\Just playing\bin\Debug\Just playing.pdb
+C:\Users\1\Documents\Visual Studio 2015\Projects\Learning C#\Just playing\Just playing\obj\Debug\Just playing.exe
+C:\Users\1\Documents\Visual Studio 2015\Projects\Learning C#\Just playing\Just playing\obj\Debug\Just playing.pdb
+C:\Users\1\Documents\Visual Studio 2015\Projects\Learning C#\Just playing\Just playing\obj\Debug\Just playing.csprojResolveAssemblyReference.cache
