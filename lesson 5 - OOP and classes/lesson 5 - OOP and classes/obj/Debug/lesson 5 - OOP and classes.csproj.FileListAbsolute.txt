@@ -1,0 +1,6 @@
+C:\Users\1\Documents\Visual Studio 2015\Projects\Derek Banas - C# course\lesson 5 - OOP and classes\lesson 5 - OOP and classes\bin\Debug\lesson 5 - OOP and classes.exe.config
+C:\Users\1\Documents\Visual Studio 2015\Projects\Derek Banas - C# course\lesson 5 - OOP and classes\lesson 5 - OOP and classes\obj\Debug\lesson 5 - OOP and classes.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\Visual Studio 2015\Projects\Derek Banas - C# course\lesson 5 - OOP and classes\lesson 5 - OOP and classes\bin\Debug\lesson 5 - OOP and classes.exe
+C:\Users\1\Documents\Visual Studio 2015\Projects\Derek Banas - C# course\lesson 5 - OOP and classes\lesson 5 - OOP and classes\bin\Debug\lesson 5 - OOP and classes.pdb
+C:\Users\1\Documents\Visual Studio 2015\Projects\Derek Banas - C# course\lesson 5 - OOP and classes\lesson 5 - OOP and classes\obj\Debug\lesson 5 - OOP and classes.exe
+C:\Users\1\Documents\Visual Studio 2015\Projects\Derek Banas - C# course\lesson 5 - OOP and classes\lesson 5 - OOP and classes\obj\Debug\lesson 5 - OOP and classes.pdb

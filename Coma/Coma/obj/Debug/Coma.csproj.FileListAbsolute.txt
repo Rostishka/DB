@@ -1,0 +1,6 @@
+C:\Users\1\Documents\Visual Studio 2015\Projects\Derek Banas - C# course\Coma\Coma\bin\Debug\Coma.exe.config
+C:\Users\1\Documents\Visual Studio 2015\Projects\Derek Banas - C# course\Coma\Coma\bin\Debug\Coma.exe
+C:\Users\1\Documents\Visual Studio 2015\Projects\Derek Banas - C# course\Coma\Coma\bin\Debug\Coma.pdb
+C:\Users\1\Documents\Visual Studio 2015\Projects\Derek Banas - C# course\Coma\Coma\obj\Debug\Coma.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\Visual Studio 2015\Projects\Derek Banas - C# course\Coma\Coma\obj\Debug\Coma.exe
+C:\Users\1\Documents\Visual Studio 2015\Projects\Derek Banas - C# course\Coma\Coma\obj\Debug\Coma.pdb
